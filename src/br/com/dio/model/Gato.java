@@ -53,6 +53,12 @@ public class Gato {
         return Objects.hash(nome, cor, idade);
     }
 
-
-
+    @Override
+    public String toString() {
+        return "Gato{" +
+                "nome='" + nome + '\'' +
+                ", cor='" + cor + '\'' +
+                ", idade=" + idade +
+                '}';
+    }
 }
