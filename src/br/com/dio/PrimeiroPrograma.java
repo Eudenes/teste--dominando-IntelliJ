@@ -9,7 +9,7 @@ public class PrimeiroPrograma {
 
         gato.setNome("Maciel");
         gato.setIdade(64);
-        gato.setCor("amarelo-ouro");
+        gato.setCor("amarelo-de-ouro");
 
         System.out.println(gato.getNome() + " " + gato.getIdade() + " " + gato.getCor());
 
