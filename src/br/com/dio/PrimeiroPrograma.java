@@ -7,7 +7,7 @@ public class PrimeiroPrograma {
     public static void main(String[] args) {
         Gato gato = new Gato();
 
-        gato.setNome("MAciel");
+        gato.setNome("Maciel");
         gato.setIdade(64);
         gato.setCor("amarelo-ouro");
 
